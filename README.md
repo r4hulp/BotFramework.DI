@@ -1,6 +1,6 @@
 # Bot Framework with DI (Autofac)
 
-[![N|Solid](https://img.shields.io/badge/blog--at-wrapcode-green.svg?style=for-the-badge)](http://www.wrapcode.com/bot-framework-dependency-injection/)
+[![N|Solid](https://img.shields.io/badge/blog--at-wrapcode-red.svg?style=flat-square)](http://www.wrapcode.com/bot-framework-dependency-injection/)
 
 A sample project that demonstrates how to configure DI for Bot Application (Bot Framework)
 
